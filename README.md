@@ -1,3 +1,6 @@
+Created routes to give back data in name, email and Country.
+
+
 CRUD app with database
 
 features:
